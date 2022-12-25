@@ -1,5 +1,5 @@
 # github-demo
-![view of GitHub demo page on a browser](https://github.com/wo1vin/github-demo/blob/readme/assets/githubdemo.png?raw=true)
+![view of GitHub demo page on a browser](https://github.com/wo1vin/github-demo/blob/main/assets/githubdemo.png?raw=true)
 
 # Introduction
 
